@@ -10,17 +10,17 @@ Optimized for performance – works smoothly even with large schools of fish.
 No configuration needed – just install and play!
 
 # Requirements
-Minecraft: 1.21.1
-Fabric Loader: 0.16.5 or newer
-Fabric API: 0.116.7+1.21.1 or newer
+- Minecraft: 1.21.1
+- Fabric Loader: 0.16.5 or newer
+- Fabric API: 0.116.7+1.21.1 or newer
 
 # Installation
-Install Fabric Loader for Minecraft 1.21.1.
-Download Fabric API and place it in your mods folder.
-Download the latest Feed The Fish.jar file.
-Place the mod .jar file in your mods folder.
-Launch Minecraft with the Fabric profile.
-I can´t support the installation of the mod. Google is you friend! <3 
+- Install Fabric Loader for Minecraft 1.21.1.
+- Download Fabric API and place it in your mods folder.
+- Download the latest Feed The Fish.jar file.
+- Place the mod .jar file in your mods folder.
+- Launch Minecraft with the Fabric profile.
+- I can´t support the installation of the mod. Google is you friend! <3 
 
 # Compatibility
 Works in singleplayer and multiplayer (server-side logic).
