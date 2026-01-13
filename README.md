@@ -3,11 +3,11 @@ Feed The Fish is a simple, charming Minecraft mod that lets you feed fish with b
 Perfect for making oceans and rivers feel more alive and interactive.
 
 # Features
-Throw bread onto water to create floating "Fish Food".
-Fish (cod, salmon, tropical fish, pufferfish) swim naturally toward the food.
-When a fish eats it, they get a small heal, happy villager particles appear, and you hear an eating sound.
-Optimized for performance – works smoothly even with large schools of fish.
-No configuration needed – just install and play!
+- Throw bread onto water to create floating "Fish Food".
+- Fish (cod, salmon, tropical fish, pufferfish) swim naturally toward the food.
+- When a fish eats it, they get a small heal, happy villager particles appear, and you hear an eating sound.
+- Optimized for performance – works smoothly even with large schools of fish.
+- No configuration needed – just install and play!
 
 # Requirements
 - Minecraft: 1.21.1
@@ -23,13 +23,13 @@ No configuration needed – just install and play!
 - I can´t support the installation of the mod. Google is you friend! <3 
 
 # Compatibility
-Works in singleplayer and multiplayer (server-side logic).
-No known conflicts with other popular mods.
+- Works in singleplayer and multiplayer (server-side logic).
+- No known conflicts with other popular mods.
 
 # License
-This mod is licensed under the MIT License – feel free to use, modify, and share!
+- This mod is licensed under the MIT License – feel free to use, modify, and share!
 
 # Credits
-Created by Martin Olsson (@malvack)
-Thanks to the Fabric community for tools and documentation.
-Enjoy feeding the fish! 🐟🍞
+- Created by Martin Olsson (@malvack) with help of AI.
+- Thanks to the Fabric community for tools and documentation.
+- Enjoy feeding the fish! 🐟🍞
